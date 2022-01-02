@@ -49,6 +49,12 @@
     component: './TableList',
   },
   {
+    name: 'copy',
+    icon: 'copy',
+    path: '/copy',
+    component: './Copy',
+  },
+  {
     path: '/',
     redirect: '/welcome',
   },
