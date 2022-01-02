@@ -21,6 +21,7 @@ export default defineConfig({
     ...defaultSettings,
   },
   // https://umijs.org/zh-CN/plugins/plugin-locale
+  //开启国际化语言配置
   locale: {
     // default zh-CN
     default: 'zh-CN',
